@@ -1,0 +1,22 @@
+body {
+    height: 95vh;
+    width: 95;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: rgb(44,139,44);
+}
+
+.botao {
+    margin-top: 20px;
+    background-color:rgb(44,139,44);
+    color: #FFF;
+    height: 30px;
+    width: 150px;
+    cursor: pointer;
+}
+
+.botao:hover {
+    background-color: lightgreen;
+}
