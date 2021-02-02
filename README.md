@@ -2,11 +2,14 @@
 
 ## ![chrome-capture (2)](https://user-images.githubusercontent.com/65238795/106616326-340b2e80-654c-11eb-8369-2d94a90ce32a.gif)
 
-<div text-aling = center> 
+ 
 
-![game-over](https://user-images.githubusercontent.com/65238795/106616317-32416b00-654c-11eb-9407-a331775badf2.PNG)
+<p align = center> <img src""></p>
 
-</div>
+<p align=center>
+<img src="https://user-images.githubusercontent.com/65238795/106616317-32416b00-654c-11eb-9407-a331775badf2.PNG" alt="Jogo da cobrinha"></p>
+
+
 
 ## :rocket: Tecnologias
 
